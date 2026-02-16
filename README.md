@@ -1,16 +1,23 @@
-# smart_task_manager
+# Smart Task Manager (Flutter Assignment)
 
-A new Flutter project.
+A task management app built with Flutter using clean architecture and Firebase.
 
-## Getting Started
+## Features
+- Firebase authentication
+- Task CRUD operations
+- Search and filter
+- Dark/light theme
+- Offline support
+- Profile management
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Riverpod
+- Firebase Auth
+- Firestore
+- REST API (Tasks)
 
-A few resources to get you started if this is your first Flutter project:
+## Run Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- flutter pub get
+- flutter run
